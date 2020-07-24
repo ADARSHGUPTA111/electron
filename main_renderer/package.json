@@ -1,0 +1,14 @@
+{
+  "name": "main_renderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adarsh Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
