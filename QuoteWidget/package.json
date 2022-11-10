@@ -9,7 +9,7 @@
   "author": "Adarsh Gupta",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.3.0"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "request": "^2.88.2"
